@@ -1,6 +1,3 @@
-str1 = "Race"
-str2 = "Care"
-
 def anagram(str1, str2):
     # convert both the strings into lowercase
     str1 = str1.lower()
@@ -24,3 +21,4 @@ def anagram(str1, str2):
 
 
 anagram("Race", "Care")
+#new changes to commit
